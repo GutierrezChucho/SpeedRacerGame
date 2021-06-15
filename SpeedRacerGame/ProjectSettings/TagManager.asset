@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - LapLine
+  - Restart
+  - Car
   layers:
   - Default
   - TransparentFX
